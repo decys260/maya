@@ -120,6 +120,16 @@ Pictory's strength lies in content transformation rather than creation from scra
 
 ***
 
+## **[videos.social](https://videos.social/?utm_source=decys260-ai-video-generation-tools&utm_medium=directory&utm_campaign=listing-wave-d)**
+Turn blogs, PDFs, and prompts into editable faceless videos.
+
+videos.social is for content marketers and social short-form: paste a blog, PDF, or prompt and get an editable script, storyboard, and voiceover instead of a locked one-shot regenerate.
+
+- **Best for:** creators and marketing teams who need long-form to short video without a reshoot.
+- **Start:** free first render; credit packs from $10; 1 credit = 1 render.
+
+One export is enough to judge the cut before buying.
+
 ## **[Colossyan](https://www.colossyan.com)**
 
 AI video platform with 150+ real actor avatars and automated PPT conversion.
